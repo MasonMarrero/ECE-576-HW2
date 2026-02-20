@@ -1,0 +1,20 @@
+# --- build artifacts ---
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+
+# --- executables ---
+a.out
+*.out
+*.exe
+*.app
+
+# if your sim binary is named "sad"
+sad
+
+MasonsNotes.md
+
+memfile.txt
